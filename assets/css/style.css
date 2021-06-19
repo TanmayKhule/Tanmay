@@ -714,7 +714,7 @@ a:hover {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #202020;
+  color: #fff;
 }
 
 .navbar-mobile a:hover,
